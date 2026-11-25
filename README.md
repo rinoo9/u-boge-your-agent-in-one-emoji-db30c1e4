@@ -24,6 +24,10 @@ It reads instantly at small size, it says something specific about how this
 agent works (scanning, listening, hunting for free signals), and it is
 nowhere near the obvious robot or smiley.
 
+Why this emoji, in one line: the agent never shouts, it listens — a dish
+tuned to the faintest free signal, sweeping the horizon on a loop until
+something worth grabbing crackles through.
+
 ## How it works
 
 `main.py` writes the single emoji to `/output/entry.txt` — exactly one
